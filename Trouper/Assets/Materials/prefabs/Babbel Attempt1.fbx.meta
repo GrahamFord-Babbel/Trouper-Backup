@@ -1,0 +1,253 @@
+fileFormatVersion: 2
+guid: 41f91d3e5b1482341b5a6b045ccac520
+timeCreated: 1526848080
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Camera
+    100004: Cube
+    100006: Eye
+    100008: Head
+    100010: Head Hair
+    100012: Head_MeshPart0
+    100014: Head_MeshPart1
+    100016: Head_MeshPart10
+    100018: Head_MeshPart11
+    100020: Head_MeshPart12
+    100022: Head_MeshPart2
+    100024: Head_MeshPart3
+    100026: Head_MeshPart4
+    100028: Head_MeshPart5
+    100030: Head_MeshPart6
+    100032: Head_MeshPart7
+    100034: Head_MeshPart8
+    100036: Head_MeshPart9
+    100038: Individual Hair Mustache.005
+    100040: iris
+    100042: iris.001
+    100044: iris.002
+    100046: Lamp
+    100048: Lamp.001
+    100050: Mustache
+    100052: pupil
+    100054: pupil.001
+    400000: //RootNode
+    400002: Camera
+    400004: Cube
+    400006: Eye
+    400008: Head
+    400010: Head Hair
+    400012: Head_MeshPart0
+    400014: Head_MeshPart1
+    400016: Head_MeshPart10
+    400018: Head_MeshPart11
+    400020: Head_MeshPart12
+    400022: Head_MeshPart2
+    400024: Head_MeshPart3
+    400026: Head_MeshPart4
+    400028: Head_MeshPart5
+    400030: Head_MeshPart6
+    400032: Head_MeshPart7
+    400034: Head_MeshPart8
+    400036: Head_MeshPart9
+    400038: Individual Hair Mustache.005
+    400040: iris
+    400042: iris.001
+    400044: iris.002
+    400046: Lamp
+    400048: Lamp.001
+    400050: Mustache
+    400052: pupil
+    400054: pupil.001
+    2000000: Camera
+    2300000: Cube
+    2300002: Eye
+    2300004: Head Hair
+    2300006: Head_MeshPart0
+    2300008: Head_MeshPart1
+    2300010: Head_MeshPart10
+    2300012: Head_MeshPart11
+    2300014: Head_MeshPart12
+    2300016: Head_MeshPart2
+    2300018: Head_MeshPart3
+    2300020: Head_MeshPart4
+    2300022: Head_MeshPart5
+    2300024: Head_MeshPart6
+    2300026: Head_MeshPart7
+    2300028: Head_MeshPart8
+    2300030: Head_MeshPart9
+    2300032: Individual Hair Mustache.005
+    2300034: iris
+    2300036: iris.001
+    2300038: iris.002
+    2300040: Mustache
+    2300042: pupil
+    2300044: pupil.001
+    3300000: Cube
+    3300002: Eye
+    3300004: Head Hair
+    3300006: Head_MeshPart0
+    3300008: Head_MeshPart1
+    3300010: Head_MeshPart10
+    3300012: Head_MeshPart11
+    3300014: Head_MeshPart12
+    3300016: Head_MeshPart2
+    3300018: Head_MeshPart3
+    3300020: Head_MeshPart4
+    3300022: Head_MeshPart5
+    3300024: Head_MeshPart6
+    3300026: Head_MeshPart7
+    3300028: Head_MeshPart8
+    3300030: Head_MeshPart9
+    3300032: Individual Hair Mustache.005
+    3300034: iris
+    3300036: iris.001
+    3300038: iris.002
+    3300040: Mustache
+    3300042: pupil
+    3300044: pupil.001
+    4300000: Cube
+    4300002: iris
+    4300004: pupil
+    4300006: Eye
+    4300008: Head Hair
+    4300010: Head_MeshPart0
+    4300012: Head_MeshPart1
+    4300014: Head_MeshPart2
+    4300016: Head_MeshPart3
+    4300018: Head_MeshPart4
+    4300020: Head_MeshPart5
+    4300022: Head_MeshPart6
+    4300024: Head_MeshPart7
+    4300026: Head_MeshPart8
+    4300028: Head_MeshPart9
+    4300030: Head_MeshPart10
+    4300032: Head_MeshPart11
+    4300034: Head_MeshPart12
+    4300036: Individual Hair Mustache.005
+    4300038: iris.001
+    4300040: iris.002
+    4300042: pupil.001
+    4300044: Mustache
+    10800000: Lamp
+    10800002: Lamp.001
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2100000, guid: d3d8d993391015247abd682dddf73021, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.001
+    second: {fileID: 2100000, guid: 50ab2c435dc283f4ca87680d483ce799, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.002
+    second: {fileID: 2100000, guid: 7de0c74b36496ad4da9409c00213fbf4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.003
+    second: {fileID: 2100000, guid: 6249b95bab5e42c4ca993b87dce8e0d7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.004
+    second: {fileID: 2100000, guid: b52989366869ac6469c3316adf27ce6c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.005
+    second: {fileID: 2100000, guid: 285d7611ed8ed9942b8f7fd5b91937fe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.006
+    second: {fileID: 2100000, guid: bedb769f60b674f4886cedf94fb35767, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 1747fd266fa25e447bc51e44f7279272, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

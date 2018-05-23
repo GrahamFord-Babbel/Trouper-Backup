@@ -1,0 +1,208 @@
+fileFormatVersion: 2
+guid: 92e7a0cf141fe4847b6b87aa0a2480bc
+timeCreated: 1525838678
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Body
+    100004: Cube
+    100006: Head
+    100008: Head_end
+    100010: Left Arm Up
+    100012: Left Arm Up.il.l
+    100014: Left Arm Up.il.l_end
+    100016: Left ForeArm Up
+    100018: Left ForeArm Up Foot
+    100020: Left ForeArm Up Foot_end
+    100022: Left ForeArm Up.ik.l
+    100024: Left ForeArm Up.ik.l_end
+    100026: Left leg back
+    100028: Left leg back foot
+    100030: Left leg back foot.ik.l
+    100032: Left leg back foot.ik.l_end
+    100034: Left leg back foot_end
+    100036: Left Thigh back
+    100038: Left Thigh back.ik.l
+    100040: Left Thigh back.ik.l_end
+    100042: Neck
+    100044: Right Arm Up
+    100046: Right Arm Up.ik.r
+    100048: Right Arm Up.ik.r_end
+    100050: Right ForeArm Up
+    100052: Right ForeArm Up Foot
+    100054: Right ForeArm Up Foot_end
+    100056: Right ForeArm Up.ik.r
+    100058: Right ForeArm Up.ik.r_end
+    100060: Right leg back
+    100062: Right leg back foot
+    100064: Right leg back foot.ik.r
+    100066: Right leg back foot.ik.r_end
+    100068: Right leg back foot_end
+    100070: Right Thigh back
+    100072: Right Thigh back.ik.r
+    100074: Right Thigh back.ik.r_end
+    100076: Tail 1
+    100078: Tail 2
+    100080: Tail 3
+    100082: Tail 3_end
+    100084: //RootNode
+    400000: Armature
+    400002: Body
+    400004: Cube
+    400006: Head
+    400008: Head_end
+    400010: Left Arm Up
+    400012: Left Arm Up.il.l
+    400014: Left Arm Up.il.l_end
+    400016: Left ForeArm Up
+    400018: Left ForeArm Up Foot
+    400020: Left ForeArm Up Foot_end
+    400022: Left ForeArm Up.ik.l
+    400024: Left ForeArm Up.ik.l_end
+    400026: Left leg back
+    400028: Left leg back foot
+    400030: Left leg back foot.ik.l
+    400032: Left leg back foot.ik.l_end
+    400034: Left leg back foot_end
+    400036: Left Thigh back
+    400038: Left Thigh back.ik.l
+    400040: Left Thigh back.ik.l_end
+    400042: Neck
+    400044: Right Arm Up
+    400046: Right Arm Up.ik.r
+    400048: Right Arm Up.ik.r_end
+    400050: Right ForeArm Up
+    400052: Right ForeArm Up Foot
+    400054: Right ForeArm Up Foot_end
+    400056: Right ForeArm Up.ik.r
+    400058: Right ForeArm Up.ik.r_end
+    400060: Right leg back
+    400062: Right leg back foot
+    400064: Right leg back foot.ik.r
+    400066: Right leg back foot.ik.r_end
+    400068: Right leg back foot_end
+    400070: Right Thigh back
+    400072: Right Thigh back.ik.r
+    400074: Right Thigh back.ik.r_end
+    400076: Tail 1
+    400078: Tail 2
+    400080: Tail 3
+    400082: Tail 3_end
+    400084: //RootNode
+    4300000: Cube
+    7400000: Armature|ArmatureAction
+    9500000: //RootNode
+    13700000: Cube
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: YellowSkin
+    second: {fileID: 2100000, guid: bbb138b0ba6202d4294ed784fab3f2a5, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Armature|ArmatureAction
+      takeName: Armature|ArmatureAction
+      firstFrame: 0
+      lastFrame: 110
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
